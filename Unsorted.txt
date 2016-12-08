@@ -1,0 +1,10 @@
+ID: 754385 Name: Amenda Age: 24 GPA: 4.0
+ID: 527583 Name: Betty Age: 26 GPA: 3.9
+ID: 439485 Name: Chris Age: 23 GPA: 3.8
+ID: 234256 Name: David Age: 24 GPA: 3.7
+ID: 585674 Name: Ed Age: 25 GPA: 3.6
+ID: 784358 Name: Fred Age: 26 GPA: 3.5
+ID: 123854 Name: Kevin Age: 27 GPA: 3.4
+ID: 569964 Name: Harry Age: 28 GPA: 3.3
+ID: 467897 Name: Ivan Age: 29 GPA: 3.2
+ID: 154557 Name: James Age: 20 GPA: 3.1
